@@ -1,3 +1,6 @@
+
+I'm working on this in my free time. Expect an update soon.
+
 # share-on-mastodon
 A customizable "Share on Mastodon" button. The goal in making this web component
 was to create a simple "Share on Mastodon" button people could easily add to the
